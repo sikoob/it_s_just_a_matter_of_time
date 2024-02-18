@@ -117,13 +117,8 @@ span {
     }
 
     span {
-        font-size: 2rem;
+        font-size: 1.5rem;
         font-weight: 700;
-    }
-
-    h2 {
-        font-size: 3rem;
-        margin-top: 1.5rem;
     }
 }
 
@@ -141,11 +136,6 @@ span {
         font-size: 1.5rem;
         font-weight: 700;
     }
-
-    h2 {
-        font-size: 2.7rem;
-        margin-top: 1.5rem;
-    }
 }
 
 
@@ -155,17 +145,11 @@ span {
         margin-bottom: 1rem;
     }
 
-    h2 {
-        font-size: 2.7rem;
-        margin-top: 1rem;
-    }
-
     .big-text {
         font-size: 2.8rem;
     }
 
     span {
-        font-size: 1.8rem;
         font-weight: 700;
     }
 }
@@ -175,10 +159,6 @@ span {
         font-size: 2rem;
     }
 
-    h2 {
-        font-size: 2.2rem;
-    }
-
     .big-text {
         font-size: 2.4rem;
     }
@@ -186,6 +166,7 @@ span {
     span {
         font-size: 1.4rem;
         margin-left: 0;
+        font-weight: 400;
     }
 }
 
@@ -194,15 +175,11 @@ span {
         font-size: 2rem;
     }
 
-    h2 {
-        font-size: 1.7rem;
-    }
-
     .big-text {
         font-size: 2rem;
     }
 
     span {
-        font-size: 1.2rem;
+        font-size: 0.8rem;
     }
 }
