@@ -164,7 +164,7 @@ span {
     }
 
     span {
-        font-size: 1.4rem;
+        font-size: 0.6rem;
         margin-left: 0;
         font-weight: 400;
     }
@@ -177,9 +177,5 @@ span {
 
     .big-text {
         font-size: 2rem;
-    }
-
-    span {
-        font-size: 0.8rem;
     }
 }
