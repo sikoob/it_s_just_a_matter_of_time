@@ -5,7 +5,7 @@ const minutesElement =document.getElementById('minutes');
 const secondsElement =document.getElementById('seconds');
 
 //target date definition
-const newDate = `23 Feb 2024, 15:00`;
+const newDate = `29 Feb 2024, 20:00`;
 
 function countdown () {
     const currentDate =new Date();
